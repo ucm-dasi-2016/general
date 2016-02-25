@@ -1,0 +1,2 @@
+# general
+Información compartida
